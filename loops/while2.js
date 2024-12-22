@@ -14,6 +14,7 @@ while (i <= number) {
 // soal 2
 let digit = 12345678
 let i = 0
+dowh
 
 while(digit > 0){
   digit = Math.floor(digit / 10)
